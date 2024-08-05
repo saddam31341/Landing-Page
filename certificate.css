@@ -1,0 +1,34 @@
+body{
+    background-color: #12263A;
+    color:#d9d9d9;
+    text-align: center;
+    font-style: inherit;
+}
+img{
+    height: 400px;
+    width: 300px;
+}
+#one{
+    font-size: 1.5cm;
+color: #eb5e
+}
+.marksheet{
+
+    height: 400px;
+    width: 350px;
+    display: flex;
+justify-content: center;
+align-items: center;
+margin-left: 500px;
+
+}
+img{
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.high{
+    margin-left: 80px;
+}
+

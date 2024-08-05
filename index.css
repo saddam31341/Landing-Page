@@ -1,0 +1,62 @@
+body{
+    background-color:#12263A;
+    color:white;
+}
+section{
+    background-color:#C5D8D1;
+   float:inline-start;
+   /* border:4px solid white */
+   color: aliceblue;
+}
+.navbar li{
+    
+        float: left;
+        list-style: none;
+        height: 60px;}
+        li{
+            margin-left: 1px;
+            margin-top: 1px;
+            margin-right: 220px;
+          margin-bottom: 1px;
+        text-wrap:wrap;
+        }
+.saddam{
+  height: 550px;
+  width: 420px;
+  
+}   
+.saddam{
+margin-top: -400px;
+  margin-left:1020px;
+  margin-bottom: 0;
+  
+}
+.text{
+  font-style: inherit;
+  text-align: left;
+  font-size: medium;
+}
+.heading2{
+margin-right: 120px;
+}
+.link:hover{
+  color: #06BCC1;
+ 
+  background-color:#F4EDEA;
+}
+#insta{
+border-radius: 50%;
+}
+#facebook{
+  border-radius: 50%;
+  }
+  .follow{
+    text-align: center;
+    background-color:#12263A ;
+   
+  }
+  .social:hover{
+  cursor: pointer;
+  }
+  
+  

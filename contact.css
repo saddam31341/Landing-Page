@@ -1,0 +1,20 @@
+body{
+    background-color: #12263A;
+    color: #F4EDEA;
+}
+#insta{
+    border-radius: 50%;
+    }
+    #facebook{
+      border-radius: 50%;
+      }
+      .follow{
+        text-align: center;
+        background-color:#12263A ;
+       
+      }
+      .social:hover{
+      cursor: pointer;
+      }
+      
+      
